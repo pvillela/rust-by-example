@@ -1,0 +1,10 @@
+target/
+
+# Other
+.idea/
+out/
+build/
+*.iml
+*.log
+.~*
+~*.*
