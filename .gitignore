@@ -1,10 +1,10 @@
 target/
 
 # Other
-.idea/
+# .idea/
 out/
 build/
-*.iml
+# *.iml
 *.log
 .~*
 ~*.*
